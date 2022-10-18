@@ -1,2 +1,2 @@
 # Water me
-Irrigation system
+Irrigation system for automating the things that you really (DONT) need.
